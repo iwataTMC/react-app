@@ -7,7 +7,7 @@ export function Header() {
     return (
         <Navbar bg="light" expand="lg">
             <Container>
-                <Navbar.Brand href="/">My Portfolio</Navbar.Brand>
+                <Navbar.Brand href="/react-app">My Portfolio</Navbar.Brand>
                 <Navbar.Toggle aria-controls="basic-navbar-nav"/>
                 <Navbar.Collapse id="basic-navbar-nav">
                     <Nav className="me-auto">
